@@ -1,0 +1,4 @@
+Open Source
+-----------
+
+All software is open-source, licensed under one of the GNU licenses (LGPL, GPL).
